@@ -80,16 +80,13 @@ Ocean wave sounds
 ▶️ How to Run the Project
 
 1.Install Blender (Latest Version Recommended)
+
 2.Open the storm_simulation.blend file
+
 3.Adjust simulation parameters if required:
 Ocean modifier settings
 Particle count
 Lighting intensity
-4.Render animation using:
-Eevee (Faster preview)
-Cycles (High realism)
-
-
 
 🎥 Rendering Settings (Recommended)
 
